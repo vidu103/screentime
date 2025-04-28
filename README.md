@@ -9,13 +9,15 @@ I analyzed my personal smartphone screen time data using Excel to visualize how 
 - Data Visualization techniques
 
   ## 🎯 Data Cleaning
-![Raw Data](image/1.png)
+**Raw Data**
+![Raw Data](image/2.png)
 
 - Converted all time into hours for consistency
 - Rounded small minute values carefully (WhatsApp usage looked tiny otherwise!)
 - Made sure data for each day of the week was organized properly.
 
-![Cleaned Data](image/2.png)
+**Clean Data**
+![Cleaned Data](image/1.png)
 
 ## 📊 Dashboard Features
 - Average, Maximum, Minimum Screen Time Cards
